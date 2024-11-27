@@ -1,1 +1,2 @@
-
+USERS: http://103.157.116.252/ujian/
+GURU: http://103.157.116.252/ujian/index.php?manager
