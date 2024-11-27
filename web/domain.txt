@@ -1,0 +1,22 @@
+Domain ID: PANDI-DO10270336
+Domain Name: smksgelorabekasi.sch.id
+Created On: 2024-08-30 10:40:03
+Last Updated On: 2024-09-17 08:56:04 
+Expiration Date: 2025-08-30 23:59:59 
+Status: ok
+
+====================================================
+Sponsoring Registrar Organization: PT Digital Registra Indonesia
+Sponsoring Registrar URL: www.digitalregistra.co.id
+Sponsoring Registrar Street: Jl. lempongsari no. 39C  Jongkang RT/RW 12/35 Sariharjo  
+Sponsoring Registrar City: Sleman
+Sponsoring Registrar State/Province: Yogyakarta
+Sponsoring Registrar Postal Code: 55281
+Sponsoring Registrar Country: ID
+Sponsoring Registrar Phone: 0274882257
+Sponsoring Registrar Email: 
+Name Server: ns1.dns-parking.com
+Name Server: ns2.dns-parking.com
+DNSSEC: Unsigned
+
+Abuse Domain Report https://pandi.id/domain-abuse-form/?lang=en
