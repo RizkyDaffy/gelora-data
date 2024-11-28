@@ -1,2 +1,5 @@
-USERS: http://103.157.116.252/ujian/
-GURU: http://103.157.116.252/ujian/index.php?manager
+USERS: 103.157.116.252/ujian/
+GURU: 103.157.116.252/ujian/index.php?manager
+DASH: 103.157.116.252/ujian/index.php/tes_dashboard
+QUEST: 103.157.116.252/ujian/index.php/tes_kerjakan/index/[$ids]
+SUBMIT: 103.157.116.252/ujian/index.php/tes_dashboard/konfirmasi_test/[$ids]
