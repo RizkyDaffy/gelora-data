@@ -5,7 +5,7 @@ c. Kesuksesan, Keselamatan Kerja dan Lingkungan Hidup
 d. Kecelakaan, Keselamatan Kerja dan Lingkungan Hicup
 e. fucking answer is a
 
-2. Dibawah ini adalag sarung tangan khusus dalam k3 antaranya kecuali
+2. Dibawah ini adalah sarung tangan khusus dalam k3 antaranya kecuali
 a. Sarung Tangan Karet
 b. Sarung Tangan Plastik <
 c. Sarung Tangan Asbes
@@ -34,8 +34,8 @@ d. mathis dan jackson
 e. WJS Poerwardinata <
 
 6. Di bawah ini yg bukan termasuk manfaat k3lh bagi kehidupan yaitu
-a. mencegah kecelakaan si jalan raya
-b. melindungi tenaga kerja atas hak keselematan nya <
+a. mencegah kecelakaan si jalan raya <
+b. melindungi tenaga kerja atas hak keselematan nya 
 c. menjamin keselamatan dari setiap orang lain berada ditempat kerja 
 d. menjaga tubuh tetap sehat 
 e. memelihara sumber produksi secara aman dan efesien
@@ -51,7 +51,7 @@ e. Memilihara kebersihan, kedisiplinan dan ketertiban
 a. Pimpinan
 b. Divisi kemanan
 c. Konstruktur
-d. Drang tua
+d. Drang tua <
 e. Karyawan
 
 9. Apa saja ciri-ciri dan K3LH, diantaranya
@@ -66,7 +66,7 @@ a. Karyawan
 b. Divisi kemanan
 c. Direktur
 d. Konstruktur
-e. Supervisor
+e. Supervisor <
 
 11. Suatu kondisi dimana atau kapan munculnya sumber bahaya telah memadai yang merupakan lewan dari bahaya danger adalah definisi
 a. Kesehatan
@@ -76,7 +76,7 @@ d. Lingkungan hidup
 e. APD
 
 12. Yang bukan termasuk penyebab terjadinya kecelakaan kerja karena
-a. Bergurau dalam bekerja
+a. Bergurau dalam bekerja <
 b. Kondisi peralatan rusak
 c. Prosedur kerja berbahaya
 d. Storage bahan tidak aman
@@ -86,19 +86,19 @@ e. Peralatan keselematan kurang
 a. Lem perekat
 b. Batu bateral
 c. Pemutih pakaian
-d. Limbah medis
+d. Limbah medis < 
 e. Pembersih kaca
 
 14. limbah yang memiliki sifat konsentrasinya mengandung zal beracun merusak lingkungan, menganggu kesehatan serta mengancam manusia disebut
 a. Limbah cair
 b. Limbah hitam
-c. Limbah 83
+c. Limbah 83 < 
 d. Limbah minyak
 e. Limbah radioaktif
 
 15. Soal yangg di lambangkan lambang roda gigi simbol peringatan untuk
-a. Bekerja dengan kesegaran jasmani dan rohani
-b. Mudah terbakar
+a. Bekerja dengan kesegaran jasmani dan rohani <
+b. Mudah terbakar 
 c. Roda berputar
 d. Selamat, sehat dan sejahtera
 e. Bebas dari kecelakaan akibat dan PAK
@@ -112,14 +112,14 @@ e. Bahan mudah terbakar
 
 17. Salah satu alat KII yang berfungsi untuk melindungi telinga 
 a. Hand skun
-b. Earplug
-c. Safety shoes
+b. Earplug <
+c. Safety shoes 
 d. Body protector
 e. Hazmat
 
 18. Suatu keadaan sekitar yang dialami seseorang baik biotik dan abiotik
 a. kepedulian
-b. Keamanan
+b. Keamanan <
 c. Kesehatan
 d. Keselamatan
 e. Lingkungan hidup
@@ -127,6 +127,6 @@ e. Lingkungan hidup
 19. Alat yang digunakan untuk melindungi kak dan benda tajam, jalan benda yang berat disebut
 a. Hand Skun
 b. earplug
-c. safety shoes
+c. safety shoes <
 d. body protector
-e. unknown
+e. Mkzikt
